@@ -6,7 +6,7 @@
 <h2 align="center">Hi there 👋 I'm Chinnaya</h2>
 
 <p align="center">
-   Computer Science Student @ PSG TECH <br/>
+   Computer Application Student @ PSG TECH <br/>
    Aspiring Software Engineer | DSA | Full Stack | ML Curious
 </p>
 
