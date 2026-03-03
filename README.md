@@ -1,6 +1,6 @@
 <!-- ======= BANNER ======= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8097ff,100:00c6ff&height=180&section=header&text=Chinnaya%20K&fontSize=40&fontAlignY=35&" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8097ff,100:00c6ff&height=180&section=header&text=CHINNAYA%20K&fontSize=40&fontAlignY=35&" />
 </p>
 
 <h2 align="center">Hi there 👋 I'm Chinnaya</h2>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠 Coded In 
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -48,6 +48,9 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 
 ---
 
@@ -59,16 +62,6 @@
   <img src="https://img.shields.io/badge/RAM-16GB-DD0031?style=for-the-badge"/> <br>
   <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows"/>
 </p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinnaya18&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
----
 
 ## 🧩 DSA & Competitive Programming  
 
