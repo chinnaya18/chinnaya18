@@ -130,44 +130,6 @@
 
 ---
 
-## 📊 Skills Proficiency
-
-<table>
-<tr>
-<td width="50%">
-
-### Languages
-- **Python** ████████████████░░ 90%
-- **JavaScript** ███████████████░░░ 85%
-- **Java** ██████████████░░░░ 80%
-- **C** ███████████████░░░ 85%
-
-</td>
-<td width="50%">
-
-### Technologies
-- **React** ███████████████░░░ 85%
-- **Node.js** ██████████████░░░░ 80%
-- **MongoDB** █████████████░░░░░ 75%
-- **SQL** ███████████████░░░ 85%
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Development Setup
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASUS-Vivobook_15-000000?style=flat-square&logo=asus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intel-Core_i5_13420H-0071C5?style=flat-square&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-16GB-DD0031?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-</p>
-
----
-
 ## 🧩 DSA & Competitive Programming
 
 <table>
@@ -204,126 +166,16 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-### Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinnaya18&theme=react-dark&radius=16" alt="Contribution Graph"/>
 </p>
 
-### GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinnaya18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnaya18&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 
-## 🚀 Projects & Work
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**Project 1**
-- 📝 Description coming soon
-- 🔧 Tech Stack: MERN
-- 🌟 Status: In Progress
-
-</td>
-<td width="50%">
-
-**Project 2**
-- 📝 Description coming soon
-- 🔧 Tech Stack: React + Node
-- 🌟 Status: In Development
-
-</td>
-</tr>
-</table>
-
-> 💡 **Note**: More projects coming soon! Check my repositories for updates.
-
----
-
-## 🎓 Learning & Development
-
-### Current Learning Path
-```
-┌─────────────────────────────────────────────┐
-│  📚 Core DSA & Algorithms                   │
-│     ↓                                        │
-│  🎨 Advanced Frontend (React Patterns)      │
-│     ↓                                        │
-│  ⚙️  Backend Architecture (Microservices)    │
-│     ↓                                        │
-│  🤖 Machine Learning & AI                   │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Open To Collaborate
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/color/96/machine-learning.png" alt="ML"/>
-
-**Machine Learning**<br/>
-AI Projects & Experiments
-
-</td>
-<td align="center">
-
-<img src="https://img.icons8.com/color/96/web.png" alt="Web"/>
-
-**Web Development**<br/>
-Full Stack Projects
-
-</td>
-<td align="center">
-
-<img src="https://img.icons8.com/color/96/github.png" alt="Open Source"/>
-
-**Open Source**<br/>
-Community Contributions
-
-</td>
-</tr>
-</table>
-
----
-
-## 📞 Get In Touch
-
-<p align="center">
-  <b>Feel free to reach out for:</b> <br/>
-  💼 Collaboration | 🤖 ML/AI Projects | 📚 Learning Discussions | 🎯 Placement Opportunities
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Say%20Hello-👋-ff69b4?style=for-the-badge"/> 
-</p>
-
----
-
-## ⭐ Support
-
-<p align="center">
-  <b>If you find my profile helpful, consider giving it a ⭐</b> <br/>
-  <i>Your support motivates me to keep learning and contributing!</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/Last%20Updated-2026-blue?style=for-the-badge" alt="Last Updated"/>
-</p>
+⭐ **If you find my profile helpful, consider giving it a ⭐** <br/>
+<i style="text-align: center; display: block;">Your support motivates me to keep learning and contributing!</i>
 
 ---
 
